@@ -1,0 +1,5 @@
+- segunda:monitoria
+- terça:livre
+- quarta:monitoria
+- quinta:livre
+- sexta:livre
